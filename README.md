@@ -10,6 +10,7 @@ The crawler should only crawl sites corresponding to the given domain.
 
 Eg/ if the domain is bbc.co.uk you should crawl bbc.co.uk/news but not news.bbc.co.uk.
 
- 
+Example usage: 
+$ node search.js bbc.co.uk classic game
 
  
